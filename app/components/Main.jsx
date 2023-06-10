@@ -14,7 +14,7 @@ export default function Main() {
         alt="naural"
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-white/30">
-        <div className="max-w-[700px] m-auto w-full h-full flex flex-col justify-center items-center lg:items-start ">
+        <div className="max-w-[700px] m-auto w-full h-full flex flex-col justify-center items-center">
           <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">
             I{"'"}m CODEOZ
           </h1>
